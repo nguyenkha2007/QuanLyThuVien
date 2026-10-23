@@ -9,7 +9,7 @@ public class Main {
         System.out.print("Nhap ho va ten: ");
         String hoTen = sc.nextLine();
 
-        System.out.println("Ho va ten cua ban la: " + hoTen);
+        System.out.println("Xin chao: " + hoTen);
 
         sc.close();
     }
